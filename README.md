@@ -4,6 +4,11 @@
 
 As a user I want to make and save notes to read later, I also want to be able to delete these when they are no longer needed, so that I can keep on top of my tasks and workload.
 
+## Status
+
+API's tested on Postman and both POST & GET API calls work. 
+Working on linking text input from notes.html, "on click" event listener via JQuery
+
 ### Method
 
 App will have two pages:
