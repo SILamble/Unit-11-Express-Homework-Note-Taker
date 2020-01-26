@@ -1,7 +1,8 @@
 const notesArray = [
     {
-      note: "This is my first note to check yo",
-      id:"",
+      title:"",
+      text: "This is my first note to check yo",
+      id: 0,
     }
   ];
 

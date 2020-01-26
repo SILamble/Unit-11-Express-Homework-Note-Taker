@@ -15,14 +15,15 @@ Use API routes to add, save and delete notes:
 * POST - add notes
 * DELETE - delete notes, by unique ID
 
-### Requirements
+Jquery will assign note text to array.
 
-Required Node modules and programs:
+### Requirements
 
 * Npm FS
 * Npm Express
 * Npm Path
 * Postman (for testing API routes)
+* Jquery
 
 ### Links
 
