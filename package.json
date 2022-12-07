@@ -4,7 +4,7 @@
   "description": "As a user I want to make and save notes to read later, I also want to be able to delete these when they are no longer needed, so that I can keep on top of my tasks and workload.",
   "main": "notes.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "fs": "^0.0.1-security",
     "path": "^0.12.7"
   },
